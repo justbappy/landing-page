@@ -325,15 +325,23 @@ body::-webkit-scrollbar{
         width: 40px;
         height: 40px;
     }
+
+    .hero{
+        gap: 0;
+        min-height: 100dvh;
+    }
+
     .hero .heroHead{
         align-items: center;
-
     }
     .hero .heroHead h1{
-        font-size: 25px;
+        font-size: 22px;
         line-height: 35px;
         letter-spacing: 5px;
         text-align: center;
+    }
+    .hero .heroHead p{
+        font-size: 14px;
     }
     .aboutMe{
         padding: 0;
