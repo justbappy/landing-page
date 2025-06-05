@@ -21,3 +21,4 @@ A landing page is a static webpage where you tell about yourself to the people w
 - Contact details, like email and other social links, must include linkedin profile.
 
 
+live link: https://justbappy.github.io/landing-page/landing.html
